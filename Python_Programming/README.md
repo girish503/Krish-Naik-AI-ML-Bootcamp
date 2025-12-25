@@ -35,7 +35,4 @@ To shift from a **Service-Based Mindset** to a **Product-Based Mindset**. Every 
 
 ---
 
-## 📂 Module Contents
-| Folder | Topic | Status |
-| :--- | :--- | :--- |
-| `1-Python Basics` | Syntax, Semantics, Variables | ✅ Completed |
+
