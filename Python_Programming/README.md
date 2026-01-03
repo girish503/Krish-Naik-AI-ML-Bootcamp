@@ -13,7 +13,7 @@ To shift from a **Service-Based Mindset** to a **Product-Based Mindset**. Every 
 - [x] **1-Python Basics:** Syntax, Semantics, Indentation, and Comments.
 - [x] **2-Control Flow:** Logical branching and loop optimizations.
 - [x] **3-Data Structures:** Memory analysis of Lists, Tuples, Sets, and Dicts.
-- [ ] **5-Functions:** Modularizing code for production.
+- [x] **5-Functions:** Modularizing code for production.
 
 ### ⚙️ Phase 2: Advanced Software Engineering
 - [ ] **8-Modules & Packages:** Creating reusable code libraries.
