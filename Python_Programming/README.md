@@ -16,9 +16,9 @@ To shift from a **Service-Based Mindset** to a **Product-Based Mindset**. Every 
 - [x] **5-Functions:** Modularizing code for production.
 
 ### ⚙️ Phase 2: Advanced Software Engineering
-- [ ] **8-Modules & Packages:** Creating reusable code libraries.
-- [ ] **9-File Handling:** Building data pipelines for external files.
-- [ ] **10-Exception Handling:** Engineering robust, crash-proof logic.
+- [x] **8-Modules & Packages:** Creating reusable code libraries.
+- [x] **9-File Handling:** Building data pipelines for external files.
+- [x] **10-Exception Handling:** Engineering robust, crash-proof logic.
 - [ ] **15-Logging:** Industry standards for tracking production code.
 
 ### 🏛️ Phase 3: Object-Oriented Programming (OOPS)
