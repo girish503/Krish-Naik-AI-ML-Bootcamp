@@ -22,7 +22,7 @@ To shift from a **Service-Based Mindset** to a **Product-Based Mindset**. Every 
 - [ ] **15-Logging:** Industry standards for tracking production code.
 
 ### 🏛️ Phase 3: Object-Oriented Programming (OOPS)
-- [ ] **11-OOPs Concepts:** Classes, Objects, Inheritance, and Polymorphism.
+- [x] **11-OOPs Concepts:** Classes, Objects, Inheritance, and Polymorphism.
 - [ ] **16-Concurrency:** Mastering Multi-threading and Multi-processing.
 - [ ] **17-Memory Management:** Garbage collection and RAM optimization.
 
