@@ -26,8 +26,8 @@ Each folder is structured as an independent module with its own documentation an
 
 ### 🔹 Phase 1: Python & Engineering Foundations
 - [x] **Section 1-3:** Syntax, Semantics, and Control Flow
-- [ ] **Section 4-7:** Inbuilt Data Structures & Practice Questions
-- [ ] **Section 11:** OOPs Concepts with Classes and Objects
+- [x] **Section 4-7:** Inbuilt Data Structures & Practice Questions
+- [x] **Section 11:** OOPs Concepts with Classes and Objects
 - [ ] **Section 15-17:** Logging, Multithreading, and Memory Management
 
 ### 🔹 Phase 2: Mathematics & Data Analysis
